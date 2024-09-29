@@ -2,6 +2,13 @@
 
 This TodoList app is an Azure Java application. It provides end-to-end CRUD operation to todo list item from front-end AngularJS code. Behind the scene, todo list item data store is [Azure CosmosDB DocumentDB](https://docs.microsoft.com/en-us/azure/cosmos-db/documentdb-introduction). This application uses [Azure CosmosDB] (https://github.com/Azure/azure-cosmosdb-java), [Azure DocumentDB] (https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-introduction) [Spring Boot Starter](https://github.com/Microsoft/azure-spring-boot), and AngularJS to interact with Azure. This sample application provides several deployment options to deploy to Azure, pls see deployment section below. With Azure support in Spring Starters, maven plugins and Eclipse/IntelliJ plugins, Azure Java application development and deployment is effortless now.
 
+![](https://i.imgur.com/waxVImv.png)
+
+# Roadmaps are now interactive, you can click the nodes to read more about the topics.
+
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+
+![](https://i.imgur.com/waxVImv.png)
 
 ## TOC
 
@@ -114,11 +121,17 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 - [Azure Spring Boot Starters](https://github.com/Microsoft/azure-spring-boot)
 - [Azure Maven plugins](https://github.com/Microsoft/azure-maven-plugins)
 
-### [Contact an Author]
+I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
 * [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+* [Email Address](luongutnho@hotmail.com)
 
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.
